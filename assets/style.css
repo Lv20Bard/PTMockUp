@@ -1,0 +1,57 @@
+p, h1, h2, h3, h4, h5 {
+      color: #ffffff;
+}
+
+
+
+/* Generics for all the white */
+.white-background {
+      background-color: #ffffff;
+}
+
+.grey-background {
+      background-color: #2A323E;
+}
+
+.dark-blue-background {
+      background-color: #279BA2;
+}
+
+.blue-background {
+      background-color: #44ABAD;
+}
+
+.green-background{
+      background-color: #00985E;
+}
+
+.dark-green-background{
+      background-color: #149F85;
+}
+
+/* Text Colours */
+.white-text {
+      color: #ffffff;
+}
+
+.grey-text {
+      color: #2A323E;
+}
+
+.dark-blue-text {
+      color: #279BA2;
+}
+
+.correct-blue-text {
+      color: #44ABAD;
+}
+
+.green-text{
+      color: #00985E;
+}
+
+.dark-green-text{
+      color: #149F85;
+}
+
+
