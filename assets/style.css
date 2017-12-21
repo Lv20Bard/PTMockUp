@@ -2,7 +2,9 @@ p, h1, h2, h3, h4, h5 {
       color: #ffffff;
 }
 
-
+body{
+      background-color: white;
+}
 
 /* Generics for all the white */
 .white-background {
@@ -42,6 +44,10 @@ p, h1, h2, h3, h4, h5 {
       color: #279BA2;
 }
 
+.shadow-text{
+      text-shadow: 2px 2px #000000;
+}
+
 .correct-blue-text {
       color: #44ABAD;
 }
@@ -53,5 +59,7 @@ p, h1, h2, h3, h4, h5 {
 .dark-green-text{
       color: #149F85;
 }
+
+
 
 
