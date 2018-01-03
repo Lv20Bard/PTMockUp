@@ -12,7 +12,7 @@ body{
 }
 
 .grey-background {
-      background-color: #2A323E;
+      background-color: #182a40;
 }
 
 .dark-blue-background {
@@ -45,7 +45,7 @@ body{
 }
 
 .shadow-text{
-      text-shadow: 2px 2px #333333;
+      text-shadow: 2px 4px black;
 }
 
 .small-text-shadow{
@@ -53,7 +53,7 @@ body{
 }
 
 .correct-blue-text {
-      color: #44ABAD;
+      color: #44ABAD !important;
 }
 
 .green-text{
@@ -65,5 +65,32 @@ body{
 }
 
 
+.middle-section{
+      background-image: url('PT-2.png'); 
+      background-repeat: no-repeat;
+      background-size: 1920px 456px;
+      height: 420px;
+}
 
 
+#logo-container{
+      position: relative;
+      top: 0;
+      left: 0;
+      height: 100%;
+
+}
+
+.nav-bar{
+      padding: 0;
+      width: 99%;
+}
+
+.header{
+      padding-bottom: 5%;
+      padding-top: 2%;
+}
+
+.logo-name{
+      text-align: center;
+}
